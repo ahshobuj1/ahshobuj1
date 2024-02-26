@@ -1,4 +1,4 @@
-### Hi there 👋, I'm A H Shobuj
+### Hello 👋, I'm A H Shobuj
 #### Junior Front End Developer
 
 Skills: JS / HTML / CSS
