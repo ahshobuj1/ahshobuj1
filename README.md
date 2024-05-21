@@ -1,10 +1,10 @@
 ### Hello 👋, I'm A H Shobuj
 #### Junior Front End Developer
 
-Skills: JS / HTML / CSS
+Skills: React / JS / HTML / CSS 
 
 - 🔭 I’m currently working on Projects 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahshobuj1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahshobuj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahshobuj08)  
