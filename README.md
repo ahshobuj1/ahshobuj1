@@ -1,7 +1,7 @@
 ### Hello 👋, I'm A H Shobuj
 #### Junior Front End Developer
 
-Skills: React / JS / HTML / CSS 
+##### Skills: React | ES6 | JS | Tailwind CSS | Vanilla CSS | HTML 
 
 - 🔭 I’m currently working on Projects 
 - 🌱 I’m currently learning React
