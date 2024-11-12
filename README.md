@@ -41,7 +41,7 @@ Frontend developer with a focus on building dynamic and responsive web applicati
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ahshobuj1&theme=neon&hide_border=true&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshobuj1&theme=neon&hide_border=true" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahshobuj1&limit=5&theme=neon&combine_all_yearly_contributions=true" />
+ <!-- <img src="https://github-contributor-stats.vercel.app/api?username=ahshobuj1&limit=5&theme=neon&combine_all_yearly_contributions=true" /> -->
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshobuj1&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs"/>
 </div>
