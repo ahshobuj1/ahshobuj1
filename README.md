@@ -2,15 +2,17 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQEXc4BKKu8wEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712482500265?e=1734566400&v=beta&t=1HaNnYuPY7Kh4aOJ61aGQI_Tb_6xtQxfA4TtpH01rh4" align="center" style="width: 100%" />
 </div> 
 
-Frontend developer with a focus on building dynamic and responsive web applications using React.js. Passionate about clean code, performance optimization, and creating seamless user experiences.<br><br>🔭 I’m currently working on Projects<br>🌱 I’m currently learning Next.js<br>❓ Ask me about anything related to Front-End
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+Frontend developer with a focus on building dynamic and responsive web applications using React.js. Passionate about clean code, performance optimization, and creating seamless user experiences.
+
+🔭 I’m currently working on Projects<br>🌱 I’m currently learning Next.js<br>❓ Ask me about anything related to Front-End
+
+<br/>
+<br/>
 
 
-
-# 💻 My Skills
+# 👨‍💻 My Skills 
 
 ### 🎨 Frontend  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
