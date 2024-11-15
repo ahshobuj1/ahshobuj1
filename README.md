@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEXc4BKKu8wEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712482500265?e=1734566400&v=beta&t=1HaNnYuPY7Kh4aOJ61aGQI_Tb_6xtQxfA4TtpH01rh4" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE7VaXeWEf4fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731680164849?e=1736985600&v=beta&t=o6IxWQtif9lpj0CBe8hjZVNKZxAb9hSJOBAh99mYTsY" align="center" style="width: 100%" />
 </div> 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
