@@ -2,6 +2,11 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQE7VaXeWEf4fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731680164849?e=1736985600&v=beta&t=o6IxWQtif9lpj0CBe8hjZVNKZxAb9hSJOBAh99mYTsY" align="center" style="width: 100%" />
 </div> 
 
+## 📈 Current Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshobuj1&theme=neon&hide_border=true" />
+</p>
+
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 Frontend developer with a focus on building dynamic and responsive web applications using React.js. Passionate about clean code, performance optimization, and creating seamless user experiences.
@@ -38,11 +43,11 @@ Frontend developer with a focus on building dynamic and responsive web applicati
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ahshobuj1&theme=neon&hide_border=true&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshobuj1&theme=neon&hide_border=true" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshobuj1&theme=neon&hide_border=true" />  -->
  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=ahshobuj1&limit=5&theme=neon&combine_all_yearly_contributions=true" /> -->
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshobuj1&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs"/>
