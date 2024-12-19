@@ -9,10 +9,11 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-Frontend developer with a focus on building dynamic and responsive web applications using React.js. Passionate about clean code, performance optimization, and creating seamless user experiences.
+Frontend developer with a focus on building dynamic and responsive web applications using React.js. Passionate about clean code, performance optimization, and creating seamless user experiences. 
 
 🔭 I’m currently working on Projects<br>🌱 I’m currently learning Next.js<br>❓ Ask me about anything related to Front-End
 
+<br/>
 <br/>
 <br/>
 
