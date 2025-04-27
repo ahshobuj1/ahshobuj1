@@ -62,10 +62,6 @@ Frontend developer with a focus on building dynamic and responsive web applicati
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahshobuj1&custom_title=A-H%20Shobuj's%20GitHub%20Activity%20Graph&bg_color=001623&color=fff&line=fff&point=fff&area_color=DAFFFB&title_color=FFFFFF&area=true&height=500&radius=5&hide_border=true" alt="A H Shobuj" />
-</div>
-
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
