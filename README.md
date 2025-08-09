@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE7VaXeWEf4fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731680164849?e=1751500800&v=beta&t=gyhwCelGG-UMdhAFZDBtLC_w1s-q-1X8TaCBiBE1NeY" align="center" style="width: 100%" />
 </div>
 
 ## 📈 Current Stats
