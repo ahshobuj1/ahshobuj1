@@ -5,7 +5,7 @@ Hey! I'm A H Shobuj, a self-taught Full-Stack MERN Developer from Bangladesh, cu
 
 
 
-🔭 Core Expertise: Full-Stack development with the MERN stack (MongoDB, Express.js, React, Next.js) and TypeScript.<br> 🌱 Currently Learning: Cloud architecture on AWS, CI/CD pipelines, and other DevOps practices to ensure robust and efficient deployments.<br> 🤖 Exploring: The potential of AI Automation to create intelligent and self-optimizing web applications. <br> 🤝 Open To: Collaborating on challenging projects, especially those involving modern cloud infrastructure and scalable backends.
+🔭 Core Expertise: Full-Stack development with the MERN stack (MongoDB, Express.js, React, Next.js) and TypeScript.<br> 🌱 Currently Learning: Cloud architecture on AWS, CI/CD pipelines, and other DevOps practices to ensure efficient deployments.<br> 🤖 Exploring: The potential of AI Automation to create intelligent and self-optimizing web applications. <br> 🤝 Open To: Collaborating on challenging projects, especially those involving modern cloud infrastructure and scalable backends.
 
 <br>
 
