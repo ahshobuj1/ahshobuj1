@@ -1,30 +1,37 @@
+#### Full-Stack MERN Developer | React, Next.js, TypeScript | Turning Ideas into Web Applications | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahshobuj/) _ [![Protfolio](https://img.shields.io/badge/Protfolio-%2324292e.svg?logo=protfolio&logoColor=white)](https://ahshobuj.vercel.app/) _ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ahshobuj11)
+
+Hey! I'm A H Shobuj, a self-taught Full-Stack MERN Developer from Bangladesh, currently pursuing a degree in Economics. My journey into programming started with a deep curiosity that evolved into a dedicated skill set, strengthened by structured learning and hands-on experience in a professional team environment. I bridge the gap between ideas and reality by delivering clean and user-friendly web solutions.
+<br>
+
+
+
+🔭 Core Expertise: Full-Stack development with the MERN stack (MongoDB, Express.js, React, Next.js) and TypeScript.<br> 🌱 Currently Learning: Cloud architecture on AWS, CI/CD pipelines, and other DevOps practices to ensure robust and efficient deployments.<br> 🤖 Exploring: The potential of AI Automation to create intelligent and self-optimizing web applications. <br> 🤝 Open To: Collaborating on challenging projects, especially those involving modern cloud infrastructure and scalable backends.
+
+<br>
+
 <div align="center">
 <img src="https://res.cloudinary.com/duu47ahmd/image/upload/v1755693539/mern-stack-developer_zqadng.png" align="center" style="width: 100%" />
 </div>
 
 ## 📈 Current Stats
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshobuj1&theme=neon&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshobuj1&theme=neon&hide_border=true" />
+  <br>
+  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
+</div>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-Frontend developer with a focus on building dynamic and responsive web applications using React.js. Passionate about clean code, performance optimization, and creating seamless user experiences. 
-
-🔭 I’m currently working on Projects<br>🌱 I’m currently learning Next.js<br>❓ Ask me about anything related to Front-End
-
-<br/>
-<br/>
-<br/>
 
 
 # 👨‍💻 My Skills 
 
-### 🎨 Frontend  
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🛠️ Backend  
@@ -40,6 +47,8 @@ Frontend developer with a focus on building dynamic and responsive web applicati
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+
 
 
 ## 📊 GitHub Stats
@@ -67,12 +76,6 @@ Frontend developer with a focus on building dynamic and responsive web applicati
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahshobuj1&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ahshobuj11)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahshobuj/)
-  [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?logo=github&logoColor=white)](https://github.com/ahshobuj1)
 
 
   
